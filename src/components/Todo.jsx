@@ -7,6 +7,7 @@ const Todo = () => {
   // const todos=state[0];
   // const setTodos=state[1];
   // console.log(state );
+  ////////
   
 
   useEffect(() => {

@@ -12,6 +12,7 @@ const TodoListItems=(props)=>{
     // useEffect(()=>{
     //     console.log("ready todo in list Item");
     //   },[])
+    ////////////changes
    
 
    // console.log({todo,srNo});
